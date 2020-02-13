@@ -1,0 +1,11 @@
+1. Open a command console
+2. Browse to the location of Life.java
+3. Enter the commands:
+javac Life.java
+java Life size iterations setting
+
+Examples:
+java Life 100 500 R
+java Life 80 400 G
+
+Entering R will start with a random pattern, while entering G will start with the gosper glider gun pattern
